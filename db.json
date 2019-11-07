@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": "upload",
+      "id": 1,
       "name": "b.png",
       "fileType": "img",
       "uploadState": "success",
