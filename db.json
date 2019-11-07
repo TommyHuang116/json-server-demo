@@ -60,6 +60,58 @@
       ]
     }
   ],
+  "hiui": [
+    {
+      "id": 1,
+      "name": "b.png",
+      "fileType": "img",
+      "child": [
+        {
+          "id": 11,
+          "name": "b11.png",
+          "child": [
+            {
+              "id": 111,
+              "name": "b11.png"
+            },
+            {
+              "id": 112,
+              "name": "b12.png"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "b12.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "b.png",
+      "fileType": "img",
+      "child": [
+        {
+          "id": 21,
+          "name": "b11.png",
+          "child": [
+            {
+              "id": 211,
+              "name": "b11.png"
+            },
+            {
+              "id": 212,
+              "name": "b12.png"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "b12.png"
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
